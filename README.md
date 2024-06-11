@@ -1,6 +1,5 @@
-# Resit 3
 Dots & Boxes project <br />
-By: Joris Faas - s2985888 & Volodymyr Lysenko - s2880911
+By: Joris Faas & Volodymyr Lysenko 
 
 
 
