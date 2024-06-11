@@ -1,4 +1,4 @@
-Dots & Boxes project <br />
+# Dots & Boxes project <br />
 By: Joris Faas & Volodymyr Lysenko 
 
 
